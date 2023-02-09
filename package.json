@@ -1,0 +1,24 @@
+{
+  "name": "@sksmoothui/react-native-loading-image",
+  "version": "1.0.2",
+  "description": "This load image through react-native-fast-image and handle the loading and failed load condition and show images accordingly.",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "fast-image",
+    "loadingImage"
+  ],
+  "dependencies": {
+    "react-native-spinkit": "^1.5.1",
+    "react-native-fast-image": "^8.5.11",
+    "prop-types": "^15.5.7"
+  },
+  "author": "satyam.kashyap2011@gmail.com",
+  "license": "MIT"
+}
